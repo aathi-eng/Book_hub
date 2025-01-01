@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176231824885",
+    "project_id": "book-hub-26a0a",
+    "storage_bucket": "book-hub-26a0a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176231824885:android:9a2cf95cefb61fc774b4bc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB54PfrrlC2sbrqwUxCiaMC_xxa4MiPLME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
