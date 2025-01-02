@@ -170,7 +170,7 @@ class _SignUpPageState extends State<SignUpPage> {
       await _auth.sendSignInLinkToEmail(
         email: email,
         actionCodeSettings: ActionCodeSettings(
-          url: 'https://book-hub-26a0a.firebaseapp.com/finishSignUp?email=$email',
+          url: 'https://flutterapplication2.page.link/finishSignUp?email=$email',
           handleCodeInApp: true,
           androidPackageName: 'com.example.flutter_application_1',
           androidInstallApp: true,
